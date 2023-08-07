@@ -5,4 +5,6 @@
 	- git init
 	
 ### Realizei um comando de git clone
+
+### Alteração direta pelo Github
 	
