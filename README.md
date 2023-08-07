@@ -6,6 +6,5 @@
 	
 ### Realizei um comando de git clone
 
-
-### alteração local
+### Alteração direta pelo Github
 	
